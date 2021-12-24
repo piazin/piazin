@@ -3,7 +3,7 @@
 - 🌐 <strong>Trabalho atualmente na área de ifraestrutura de T.I</strong>
 - 🏫 <strong>ADS - UniFil</strong>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/piazin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piazin&show_icons=true&theme=material-palenight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piazin&layout=compact&langs_count=7&theme=material-palenight"/>
