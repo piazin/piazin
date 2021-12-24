@@ -1,7 +1,7 @@
 ### Olá Mundo!
 
-- 🌐 Trabalho atualmente na área de ifraestrutura de T.I
-- 🏫 ADS - UniFil
+- 🌐 <strong>Trabalho atualmente na área de ifraestrutura de T.I</strong>
+- 🏫 <strong>ADS - UniFil</strong>
 
 <div align="left">
   <a href="https://github.com/piazin">
