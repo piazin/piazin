@@ -1,6 +1,5 @@
-<div align="center"> <h1><strong>Olá Mundo!</strong></h1>
 
-🌐 <strong>Trabalho atualmente na área de ifraestrutura de T.I</strong> <br>
+🌐 <strong>I currently work in the IT infrastructure area</strong> <br>
 🏫 <strong>ADS - UniFil</strong></div>
 
 <div align="center">
