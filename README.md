@@ -1,6 +1,7 @@
-
+<div align="center">
 🌐 <strong>I currently work in the IT infrastructure area</strong> <br>
 🏫 <strong>ADS - UniFil</strong></div>
+<br>
 
 <div align="center">
   <a href="https://github.com/piazin">
