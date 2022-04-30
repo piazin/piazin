@@ -1,4 +1,4 @@
-<div align="center">
+
 Hi 👋 My name is Lucas
 ======================
 
@@ -49,5 +49,4 @@ student of systems analysis and development, I currently work in the IT infrastr
  
   ![Snake animation](https://github.com/piazin/piazin/blob/output/github-contribution-grid-snake.svg)
  
-</div>
   
