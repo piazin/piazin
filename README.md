@@ -43,11 +43,6 @@ student of systems analysis and development, I currently work in the IT infrastr
 
 <a href="https://github.com/piazin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piazin&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center"> 
-  <a href="https://www.instagram.com/lucas_souzalfs/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ls4803326@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-souza-929096222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://open.spotify.com/playlist/6hpVBIkSYu0Q8Z0B1dojBP?si=be0d634a81404748" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
   
  
