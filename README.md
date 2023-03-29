@@ -2,7 +2,6 @@
 Hi 👋 My name is Lucas
 ======================
 
-programming student
 -------------------
 
 student of systems analysis and development, I currently work in the IT infrastructure area.
