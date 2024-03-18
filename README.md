@@ -7,6 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piazin&theme=tokyonight&count-private=true)
   
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/piazin/piazin/blob/output/github-contribution-grid-snake-dark.svg)
  
   
