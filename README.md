@@ -2,7 +2,4 @@
 
 ![Snake](https://github.com/piazin/piazin/blob/output/github-contribution-grid-snake-dark.svg)
 
-  
-<figure>
-  <img width="100%" height="400px" src="https://wakatime.com/share/@piazin/b779b26a-47b6-4df7-b2f7-203da257af36.svg">
-</figure>
+<figure><embed src="https://wakatime.com/share/@piazin/1028d9a1-19f3-46f3-8c35-b2235ab3ff9d.svg"></embed></figure>
